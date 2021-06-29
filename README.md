@@ -1,2 +1,0 @@
-# tieuluanhethongnhung
-GitHUb
